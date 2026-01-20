@@ -75,17 +75,18 @@ npx expo start
 ## Capturas de Pantalla
 
 ### Pantalla de Bienvenida
-<img src="./assets/welcome.png" alt="Welcome Screen" width="100"/>
+<img src="./assets/welcome.png" alt="Welcome Screen" width="200"/>
 
 Pantalla inicial con información sobre la aplicación y el logo de COMUNI-MAP.
 
 ### Pantalla de Login
-![Login Screen](./assets/login.png)
+<img src="./assets/login.png" alt="Welcome Screen" width="200"/>
 
 Sistema de autenticación con validación de campos de email y contraseña.
 
 ### Pantalla Principal
-![Home Screen](./assets/home.png)
+<img src="./assets/home.png" alt="Welcome Screen" width="200"/>
+
 
 Panel de control con reportes recientes y accesos rápidos a funcionalidades.
 
