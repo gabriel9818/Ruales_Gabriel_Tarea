@@ -75,7 +75,7 @@ npx expo start
 ## Capturas de Pantalla
 
 ### Pantalla de Bienvenida
-![Welcome Screen](./assets/welcome.png)
+<img src="./assets/welcome.png" alt="Welcome Screen" width="100"/>
 
 Pantalla inicial con información sobre la aplicación y el logo de COMUNI-MAP.
 
